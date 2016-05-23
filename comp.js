@@ -14,6 +14,7 @@
 
 function compose(f,g) {
   // Compose the two functions here!
+  return f + g;
 }
 
-compose();
+console.log(compose(7,8));
