@@ -1,0 +1,3 @@
+# function-comp
+
+Codewars challenge
